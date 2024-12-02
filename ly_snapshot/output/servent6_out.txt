@@ -1,0 +1,12 @@
+21:17:51 - Starting servent [6|localhost|1700]
+21:17:51 - Pausing for 2000 ms
+21:17:54 - Pausing for 15000 ms
+21:17:59 - Got message [3|4|4|LY_MARKER|6]
+21:17:59 - Got message [5|153|4|LY_MARKER|6]
+21:17:59 - Got message [2|204|4|LY_MARKER|6]
+21:17:59 - Got message [0|153|4|LY_MARKER|6]
+21:17:59 - Sending message [6|201|4|LY_MARKER|0]
+21:17:59 - Sending message [6|200||LY_TELL|4]
+21:17:59 - Sending message [6|203|4|LY_MARKER|3]
+21:18:00 - Sending message [6|202|4|LY_MARKER|2]
+21:18:00 - Sending message [6|204|4|LY_MARKER|5]

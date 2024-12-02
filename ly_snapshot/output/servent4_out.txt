@@ -1,0 +1,39 @@
+21:17:51 - Starting servent [4|localhost|1500]
+21:17:51 - Pausing for 500 ms
+21:17:52 - Pausing for 15000 ms
+21:17:52 - Started collecting snapshot: 0
+21:17:52 - Lista inicijatora: {3=0, 4=0}
+21:17:53 - Waitng for tell response...
+21:17:53 - Sending message [4|0|4|LY_MARKER|3]
+21:17:54 - Sending message [4|1|4|LY_MARKER|5]
+21:17:55 - Got message [3|0||LY_TELL|4]
+21:17:55 - Got message [3|3|4|LY_MARKER|4]
+21:17:56 - Got message [5|150||LY_TELL|4]
+21:17:56 - Got message [5|152|4|LY_MARKER|4]
+21:17:57 - Got message [1|200||LY_TELL|4]
+21:17:58 - Got message [2|200||LY_TELL|4]
+21:17:59 - Got message [0|150||LY_TELL|4]
+21:18:00 - Got message [6|200||LY_TELL|4]
+21:18:01 - Got all tell responses.
+21:18:01 - Servent Snapshot initiator ID: 4
+21:18:01 - Snapshot ID: 1
+21:18:01 - Collected values {0={4={1=LYSnapshotResult [recordedAmount=876, giveHistory={1=249, 2=292, 6=252}, getHistory={1=265, 2=276, 6=128}]}}, 1={4={1=LYSnapshotResult [recordedAmount=672, giveHistory={0=265, 2=302, 3=279, 5=245}, getHistory={0=230, 2=249, 3=0, 5=284}]}}, 2={4={1=LYSnapshotResult [recordedAmount=429, giveHistory={0=276, 1=308, 3=290, 6=269}, getHistory={0=270, 1=302, 3=0, 6=0}]}}, 3={4={1=LYSnapshotResult [recordedAmount=1284, giveHistory={1=0, 2=0, 4=0, 6=0}, getHistory={1=243, 2=41, 4=0, 6=0}]}}, 4={4={1=LYSnapshotResult [recordedAmount=1000, giveHistory={3=0, 5=0}, getHistory={3=0, 5=0}]}}, 5={4={1=LYSnapshotResult [recordedAmount=353, giveHistory={1=284, 4=308, 6=300}, getHistory={1=245, 4=0, 6=0}]}}, 6={4={1=LYSnapshotResult [recordedAmount=689, giveHistory={0=251, 2=272, 3=260, 5=301}, getHistory={0=252, 2=221, 3=0, 5=300}]}}}
+21:18:01 - Recorded bitcake amount for 0 = 876
+21:18:01 - Recorded bitcake amount for 1 = 672
+21:18:01 - Recorded bitcake amount for 2 = 429
+21:18:01 - Recorded bitcake amount for 3 = 1284
+21:18:01 - Recorded bitcake amount for 4 = 1000
+21:18:01 - Recorded bitcake amount for 5 = 353
+21:18:01 - Recorded bitcake amount for 6 = 689
+21:18:01 - Unreceived bitcake amount: 19 from servent 0 to servent 1
+21:18:01 - Unreceived bitcake amount: 22 from servent 0 to servent 2
+21:18:01 - Unreceived bitcake amount: 36 from servent 1 to servent 3
+21:18:01 - Unreceived bitcake amount: 59 from servent 2 to servent 1
+21:18:01 - Unreceived bitcake amount: 249 from servent 2 to servent 3
+21:18:01 - Unreceived bitcake amount: 48 from servent 2 to servent 6
+21:18:01 - Unreceived bitcake amount: 308 from servent 5 to servent 4
+21:18:01 - Unreceived bitcake amount: 123 from servent 6 to servent 0
+21:18:01 - Unreceived bitcake amount: 272 from servent 6 to servent 2
+21:18:01 - Unreceived bitcake amount: 260 from servent 6 to servent 3
+21:18:01 - Unreceived bitcake amount: 301 from servent 6 to servent 5
+21:18:01 - System bitcake count: 7000
